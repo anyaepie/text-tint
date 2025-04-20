@@ -1,5 +1,5 @@
 # text-tint
-A silly toy that matches a colour RGB to any word.
+A silly toy that matches a colour RGB to any word, try it on [textint.online](textint.online)
 
 This is an off-cut from my [word2color experiment](https://www.mixedmeanings.lol/code/word2color) ([kaggle notebook](https://www.kaggle.com/code/anyaepie/word2color-seeing-books-in-a-new-colour)). I do have some ideas on how to move it forward, yet it will stay like that for some time.
 
